@@ -1,0 +1,40 @@
+Screen {
+    background: #090909;
+    color: #eeeeee;
+}
+Header {
+    background: #170707;
+    color: #ff5555;
+}
+Footer {
+    background: #170707;
+    color: #eeeeee;
+}
+TabbedContent {
+    background: #090909;
+}
+TabbedContent > ContentTabs {
+    background: #170707;
+}
+Tab {
+    color: #bbbbbb;
+}
+Tab.-active {
+    color: #ff5555;
+}
+Static {
+    padding: 1 2;
+}
+DataTable {
+    height: 1fr;
+    background: #101010;
+    color: #eeeeee;
+}
+DataTable > .datatable--header {
+    background: #260b0b;
+    color: #ff6666;
+}
+RichLog {
+    background: #101010;
+    color: #eeeeee;
+}

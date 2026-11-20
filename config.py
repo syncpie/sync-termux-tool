@@ -1,0 +1,9 @@
+APP_NAME = "Sync Pulse"
+BRAND = "SYNC PULSE"
+AUTHOR = "SYNC"
+DISCORD_INVITE = "https://discord.com/invite/8rUgJDpE8y"
+REFRESH_SECONDS = 1.0
+HISTORY_LIMIT = 3600
+DATABASE_PATH = "data/termuxpulse.db"
+REPORTS_PATH = "reports"
+PROCESS_LIMIT = 25
